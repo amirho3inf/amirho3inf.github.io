@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    width="25px" height="25px"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 102 102"
+   version="1.1"
+   sodipodi:docname="gitlab.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="693"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="3.272102"
+     inkscape:cx="47.620893"
+     inkscape:cy="49.217847"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#426076;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">integration-gitlab-01</title>
+  <circle
+     class="cls-1"
+     cx="51"
+     cy="51"
+     r="51"
+     id="circle8"
+     style="fill:#2c2c2c;fill-opacity:1" />
+  <g
+     id="Page-1">
+    <g
+       id="logo-square">
+      <g
+         id="logo-no-bg">
+        <path
+           id="path50"
+           class="cls-2"
+           d="M52,83.81h0L64.2,46.27H39.8L52,83.81Z" />
+        <path
+           id="path58"
+           class="cls-1"
+           d="M52,83.81,39.8,46.27H22.71L52,83.81Z"
+           style="fill:#2c2c2c;fill-opacity:1" />
+        <path
+           id="path66"
+           class="cls-2"
+           d="M22.71,46.27h0L19,57.67a2.53,2.53,0,0,0,.92,2.82L52,83.81,22.71,46.27Z" />
+        <path
+           id="path74"
+           class="cls-2"
+           d="M22.71,46.27H39.8L32.46,23.66a1.26,1.26,0,0,0-2.4,0L22.71,46.27Z" />
+        <path
+           id="path78"
+           class="cls-1"
+           d="M52,83.81,64.2,46.27H81.29L52,83.81Z"
+           style="fill:#2c2c2c;fill-opacity:1" />
+        <path
+           id="path82"
+           class="cls-2"
+           d="M81.29,46.27h0L85,57.67a2.53,2.53,0,0,1-.92,2.82L52,83.81,81.29,46.27Z" />
+        <path
+           id="path86"
+           class="cls-2"
+           d="M81.29,46.27H64.2l7.35-22.61a1.26,1.26,0,0,1,2.4,0l7.35,22.61Z" />
+      </g>
+    </g>
+  </g>
+</svg>
