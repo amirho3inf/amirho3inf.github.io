@@ -9,21 +9,26 @@
 
 body {
     margin: 0;
-    animation: 1s ease-out onLoad;
-    background: #000 url("img/bg.jpg") no-repeat;
-    background-size: cover;
-    background-position: center;
+    animation: 2s ease-out onLoad;
+    background: #2c2c2c;
 }
 
 
-h1 {
-    font-size: 25px;
-    line-height: 70px;
+.name {
+    margin-top: 75px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Oswald', sans-serif;
 }
+
 
 p {
-    font-size: 18px;
-    margin: 10px 0;
+    text-align: center;
+    font-size: 21px;
+    line-height: 30px;
+    font-family: 'Baloo Chettan', sans-serif;
+    margin: 15px;
 }
 
 a {
@@ -32,24 +37,23 @@ a {
 
 #main-window {
     position: relative;
-    margin: 70px auto;
-    border-radius: 7px;
-    box-shadow: 0 0 15px 5px rgba(255, 255, 255, 0.9);
+    margin: 80px auto;
+    border-radius: 20px;
     background-color: rgba(255, 255, 255, 0.9);
     width: 70%;
     max-width: 700px;
-    height: 470px;
-    font-family: 'Montserrat', sans-serif;
+    height: 500px;
     color: rgba(48, 53, 57, 0.9);
 }
 
 .avatar {
-    right: -22px;
-    top: -22px;
-    border: 2px solid rgba(255, 255, 255, 0.9);
-    box-shadow: 0 0 15px 5px rgba(255, 255, 255, 0.9);
-    width: 110px;
-    height: 110px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 120px;
+    top: -60px;
     border-radius: 50%;
     overflow: hidden;
     position: absolute;
@@ -68,19 +72,13 @@ a {
 
 .links {
     position: absolute;
-    width: auto;
+    width: 195px;
     right: 15px;
     bottom: 10px;
 }
 
 .links > a {
-    margin-left: 5px;
-}
-
-
-.links > svg {
-    width: 100px;
-    height: 100px;
+    margin-left: 3px;
 }
 
 .cp {
@@ -90,24 +88,62 @@ a {
     bottom: 12px
 }
 
-@media (max-width: 590px) and (min-width: 100px) {
-    h1 {
-        font-size: 11px;
-    }
-    p {
-        font-size: 10px;
-    }
+@media (max-width: 900px) {
 
     .avatar {
-        width: 80px;
-        height: 80px;
+        width: 100px;
+        height: 100px;
+        top: -50px;
     }
+
+    .name {
+        margin-top: 60px;
+        margin-bottom: 15px;
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width: 580px) {
 
     .cp {
         visibility: hidden;
     }
 
-    .links > a {
-        margin-left: 1px;
+    .avatar {
+        width: 80px;
+        height: 80px;
+        top: -40px;
+    }
+
+    .name {
+        margin-top: 50px;
+        margin-bottom: 12px;
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #main-window {
+        height: 430px;
+    }
+
+    .content {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .links {
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
