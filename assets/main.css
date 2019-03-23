@@ -38,7 +38,7 @@ a {
 #main-window {
     position: relative;
     margin: 80px auto;
-    border-radius: 20px;
+    border-radius: 15px;
     background-color: rgba(255, 255, 255, 0.9);
     width: 70%;
     max-width: 700px;
@@ -84,7 +84,7 @@ a {
 .cp {
     position: absolute;
     font-size: 12px;
-    left: 12px;
+    left: 15px;
     bottom: 12px
 }
 
