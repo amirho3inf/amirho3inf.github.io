@@ -10,7 +10,7 @@
 body {
     margin: 0;
     animation: 1s ease-out onLoad;
-    background: #000 url("../../assets/img/bg.jpg") no-repeat;
+    background: #000 url("../0.2/assets/img/bg.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
