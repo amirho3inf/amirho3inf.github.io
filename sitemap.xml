@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://example.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://example.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://example.com/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://example.com/tags/</loc>
   </url>
-  
 </urlset>
